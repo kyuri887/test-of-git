@@ -1,8 +1,6 @@
-x = 5
-y = 10
-z = 10
 a = int(input('Digite um numero: '))
+b = int(input('Digite outro numero: '))
 
-count = x + y + z + a
+count = a + b
 
 print(count)
